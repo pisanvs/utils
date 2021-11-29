@@ -1,0 +1,10 @@
+MY UTILS
+========
+
+These are just some C utils that I made bc I wanted to learn C
+
+To install:
+
+sudo make build install
+
+NOTE: this overrides the cat util, if this worries you, you can change the name of the cat.c file
